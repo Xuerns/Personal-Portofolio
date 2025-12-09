@@ -1,8 +1,14 @@
+import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
+import About from "./components/About";
+
 export default function App() {
 
   return(
     <>
-      <p className="">My Name</p>
+      <Navbar></Navbar>
+      <Hero></Hero>
+      <About></About>
     </>
   );
 }
