@@ -1,7 +1,7 @@
 export default function Card() {
 
     return(
-        <div className="bg-linear-to-tr from-slate-800 to-slate-500/50 border border-white/30 rounded-xl p-4.5 grid grid-cols-1 grid-rows-2 items-stretch gap-3 bg-opacity-10 font-roboto">
+        <div className="bg-linear-to-tr from-slate-800 to-slate-500/50 border border-white/30 rounded-xl p-4.5 grid grid-cols-1 grid-rows-2 items-stretch gap-3 font-roboto">
             <div className="text-white flex flex-col gap-3">
                 <div className="flex justify-between">
                     <h5 className="bg-linear-to-tr from-amber-200 to-yellow-300 inline px-3 py-1.5 rounded-xl text-black">FrontEnd</h5>

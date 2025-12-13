@@ -1,7 +1,7 @@
 export default function CardServices() {
 
     return(
-        <div className="bg-linear-to-tr from-slate-500 to-slate-900/40 rounded-xl p-15 border border-white/80">
+        <div className="bg-linear-to-tr from-slate-700 to-slate-800/40 rounded-xl p-15 border border-white/80">
             <div className="flex items-center flex-col gap-3">
                 <div className="bg-white px-14 py-10 rounded-xl"></div>
                 <h4 className="text-white text-2xl">Website Design</h4>
